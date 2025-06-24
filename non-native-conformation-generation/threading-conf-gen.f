@@ -1,4 +1,4 @@
-c	non-native conformation generation by threading for target 1LZ1
+c	non-native conformation generation by threading for target
 	
 	parameter(n=556,m=1,nlen=2000,ntar=56)
 	
