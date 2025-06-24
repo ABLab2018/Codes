@@ -1,6 +1,6 @@
 ##  Contact profile for 2LHD
 
-  parameter(n=56,np=4931)
+ 	parameter(n=56,np=4931)
 	real x(np,n),y(np,n),z(np,n),r(np,n,n)	
 	integer i,j,k
 
